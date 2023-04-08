@@ -68,19 +68,19 @@ MAC'S PC demo starts at the 24 minute mark
 <a href="https://www.linkedin.com/in/your-new-associate/"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Dylan  | GitHub" width="100px"/></a>
 <p align="left"> ${\color{blue}Dylan \space Dempsey }$ </p> 
 
-<a href="https://www.linkedin.com/in/jeremy-patton-028300260/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
-<a href="https://github.com/JeremyP1017"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Jeremy | GitHub" width="100px"/></a>
+<a href="https://github.com/JeremyP1017"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Geneva | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/jeremy-patton-028300260/"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Jeremy | GitHub" width="100px"/></a>
 <p align="left"> ${\color{blue}Jeremy \space Patton}$ </p> 
 
-<a href="https://www.linkedin.com/in/robertgregor11/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
-<a href="https://github.com/RobG-11"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Rob | GitHub" width="100px"/></a>
+<a href="https://github.com/RobG-11"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Sierra | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/robertgregor11/"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Rob | GitHub" width="100px"/></a>
 <p align="left"> ${\color{blue}Rob \space Gregor }$ </p> 
 
-<a href="https://www.linkedin.com/in/anthony-wall-a2783019/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
-<a href="https://github.com/Anthony098626"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Anthony | GitHub" width="100px"/></a> 
+<a href="https://github.com/Anthony098626"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/anthony-wall-a2783019/"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Anthony | GitHub" width="100px"/></a> 
 <p align="left"> ${\color{blue}Anthony \space Hall}$ </p> 
 
-<a href="https://www.linkedin.com/in/ethan-brock-b455a7263/"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
-<a href="https://github.com/EthanBrock1"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan | GitHub" width="100px"/></a> 
+<a href="https://github.com/EthanBrock1"><img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connie | LinkedIn" width="100px"/></a>
+<a href="https://www.linkedin.com/in/ethan-brock-b455a7263/"><img align="left" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="Ethan | GitHub" width="100px"/></a> 
 <p align="left"> ${\color{blue}Ethan \space Brock}$ </p>
 
