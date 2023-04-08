@@ -10,7 +10,7 @@
 ## 💾 Project Description 🚧
 **Mac's PC's** goal is to provide a means to build an infrastructure in a repeatable & efficient manner.
 
-**Project Scenario** MAC'S PC was tasked with updating the core IT infrastructure of a recent GlobeX acquisition. The young, innovative startup aligns well with the mission of GlobX; unfortunatley, its IT systems does not. Our team believes that attempting to integrate their existing IT infrastructure with the rest of GlobeX's would result in technical dept. Since the acquisition is still a small startup we believe that it would be better to simply build out a new infrastructure which is in line with with GlobeX's current infrastructure. 
+**Project Scenario:** MAC'S PC was tasked with updating the core IT infrastructure of a recent GlobeX acquisition. The young, innovative startup aligns well with the mission of GlobX; unfortunatley, its IT systems does not. Our team believes that attempting to integrate their existing IT infrastructure with the rest of GlobeX's would result in technical dept. Since the acquisition is still a small startup we believe that it would be better to simply build out a new infrastructure which is in line with with GlobeX's current infrastructure. 
 
 **Our Project solution:** 
 
