@@ -55,7 +55,7 @@ MAC'S PC demo starts at the 24 minute mark
 * [OS Version Control](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20for%20Operation%20System%20Version%20Control.pdf.pdf)
 * [User File Access](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/User%20file%20access.pdf)
 * [Network Monitoring](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Monitoring.pdf)
-* [Network Configuration](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Configuration.pdf)
+* [Network Changes](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP%20Network%20Configuration.pdf)
 * [Network Security](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/SOP_%20Network%20Security.pdf)
 
 ### [Scripts](https://github.com/Mac-s-PC/Powershell-Scripts)
