@@ -8,22 +8,22 @@ Provide a means to build an infrastructure in a repeatable & efficient manner.
 MAC'S PC was tasked with updating the core IT infrastructure of a recent GlobeX acquisition. The young, innovative startup aligns well with the mission of GlobX; unfortunatley, its IT systems does not. Our team believes that attempting to integrate their existing IT infrastructure with the rest of GlobeX's would result in technical dept. Since the acquisition is still a small startup we believe that it would be better to simply build out a new infrastructure which is in line with with GlobeX's current infrastructure. 
 ## Repositories
 
-### Prep Documents
+### [Prep Documents](https://github.com/Mac-s-PC/Project-Prep-Documents)
 
 * Provides the documents used to prep for this project.
 * [README](https://github.com/Mac-s-PC/Project-Prep-Documents/blob/main/README.md)
 
-### Slideshow & Presentation
+### [Slideshow & Presentation](https://github.com/Mac-s-PC/Slideshow)
 
 * Provides the project slideshow and presentation video.
 * [README](https://github.com/Mac-s-PC/Slideshow/blob/main/README.md)
 
-### Network Topology & Org Chart
+### [Network Topology & Org Chart](https://github.com/Mac-s-PC/Network-Topolology-Org-Chart)
 
 * Provides the network topology as well as the org chart.
 * [README](https://github.com/Mac-s-PC/Network-Topolology-Org-Chart/blob/main/README.md)
 
-### Standard Operating Procedures
+### [Standard Operating Procedures](https://github.com/Mac-s-PC/Standard-Operating-Procedures)
 
  **Contains the following Standard Operating Procedure's**
 * [Employee Onboarding](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/How%20to%20handle%20network%20accounts%20for%20onboarding%20employees.pdf)
@@ -36,7 +36,7 @@ MAC'S PC was tasked with updating the core IT infrastructure of a recent GlobeX 
 
 * [README](https://github.com/Mac-s-PC/Standard-Operating-Procedures/blob/main/README.md)
 
-### Scripts
+### [Scripts](https://github.com/Mac-s-PC/Powershell-Scripts)
 
 * Contains scripts used to automate setup.
 * [README](https://github.com/Mac-s-PC/Powershell-Scripts/blob/main/README.md)
@@ -48,7 +48,6 @@ Please submit any requests for help with the IT department.
 
 ## Authors
 
-Contributors names and links
 
 ### **Dylan Dempsey**  
 - [Github](https://github.com/DylanDempsey1)
@@ -73,10 +72,10 @@ Contributors names and links
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
 
-*  
-*  
-*  
-*  
-*  
+* https://github.com/Mac-s-PC 
+* https://trello.com/ 
+* https://drive.google.com/ 
+* https://openai.com/blog/chatgpt 
+* https://logo.com/ 
+
